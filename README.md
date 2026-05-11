@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0df14834-e2de-45a6-acac-666f5f0f875b" />## Môn: Phát triển ứng dụng với mã nguồn mở-TEE0421
+
 # Lớp: 58KTPM
 # MSSV : K225480106092
 # Bài tập 03:
